@@ -1,0 +1,45 @@
+# You always want those
+kali-linux-core
+kali-desktop-live
+
+# Kali Packages
+kali-linux-everything
+
+# Graphical desktop
+kali-desktop-kde
+wmctrl
+
+# Cybersoc additions
+checksec
+chntpw
+eza
+feh
+fzf
+ncdu
+neofetch
+neovim
+python-is-python3
+python2
+qemu-system
+rlwrap
+
+# Alacritty
+rustc
+cargo
+cmake
+desktop-file-utils
+libfreetype6-dev
+libfontconfig1-dev
+libxcb-xfixes0-dev
+pkg-config
+scdoc
+
+# Other requirements
+default-jdk
+default-jre
+curl
+git
+live-build
+cdebootstrap
+ubuntu-dev-tools
+ruby-full
